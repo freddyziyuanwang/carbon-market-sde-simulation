@@ -35,5 +35,5 @@ This repository contains a simulation framework for modeling price dynamics in c
 
 ---
 
-Developed by **Ziyuan Wang** (University of Toronto), 2025  
+Developed by **Ziyuan Wang** (University of Toronto), 2023-2024  
 Submitted to **SIURO (SIAM Undergraduate Research Online)**
